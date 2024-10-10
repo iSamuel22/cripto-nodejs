@@ -30,7 +30,7 @@ Siga os passos abaixo para configurar o projeto localmente:
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/smuelp/cryptography-nodejs.git
+    git clone https://github.com/iSamuel22/cripto-nodejs.git
     ```
 
 2. Entre no diretório do projeto:
