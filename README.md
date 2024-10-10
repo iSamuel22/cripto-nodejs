@@ -13,8 +13,6 @@ Este projeto implementa várias técnicas de criptografia usando **JavaScript** 
 - [Tecnologias](#tecnologias)
 - [Instalação](#instalação)
 - [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
 
 ## Sobre
 
