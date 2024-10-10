@@ -7,23 +7,23 @@ Este projeto implementa várias técnicas de criptografia usando **JavaScript** 
 - Cifra de Substituição
 - Cifra Rail Fence
 
-## Índice
+## 📝 Índice
 
 - [Sobre](#sobre)
 - [Tecnologias](#tecnologias)
 - [Instalação](#instalação)
 - [Uso](#uso)
 
-## Sobre
+## 📃 Sobre
 
 Este projeto é uma coleção de diferentes técnicas de criptografia, permitindo aos usuários entender como cada algoritmo funciona na prática. Cada técnica é implementada em um módulo separado para facilitar o uso e a compreensão. As mensagens podem ser criptografadas e descriptografadas diretamente no terminal, fornecendo uma interface simples e eficaz para experimentação.
 
-## Tecnologias
+## 🚀 Tecnologias
 
 - **Node.js**: Plataforma de execução para JavaScript no servidor.
 - **JavaScript**: Linguagem de programação utilizada para implementar as técnicas de criptografia.
 
-## Instalação
+## ⚙️ Instalação
 
 Siga os passos abaixo para configurar o projeto localmente:
 
@@ -45,11 +45,11 @@ Siga os passos abaixo para configurar o projeto localmente:
     npm install
     ```
 
-## Uso
+## 🖇️ Uso
 
 Após instalar as dependências, você pode executar as criptografias diretamente no terminal. Cada técnica de criptografia tem um módulo correspondente, e você pode escolher qual usar.
 
-### Exemplo de execução
+### 📊 Exemplo de execução
 
 1. **Cifra de César**:
 
